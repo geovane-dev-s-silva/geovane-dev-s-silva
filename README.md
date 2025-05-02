@@ -4,11 +4,15 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FF88&center=true&vCenter=true&width=600&lines=Cientista+de+Dados;Apaixonado+por+Código+e+IA;Construindo+o+Futuro+Digital" alt="Typing SVG" />
 </div>
 
+<div align="center">
+  <img src="banner-agentes-ia.png" alt="Curso Agentes Autônomos de IA" style="max-width:100%; border-radius:12px;" />
+</div>
+
 ---
 
 ## 👾 Bem-vindo ao meu núcleo digital!
 
-Eu sou **Geovane Silva**, um Cientista de Dados com uma paixão por soluções inovadoras e explorar o potencial da inteligência artificial. Minha missão? Transformar ideias em códigos funcionais, com uma pitada de criatividade e uma visão de futu. Aqui, você encontrará meus projetos, habilidades e um pouco da minha jornada no universo da programação.
+Eu sou **Geovane Silva**, um Cientista de Dados com uma paixão por soluções inovadoras e explorar o potencial da inteligência artificial. Minha missão? Transformar ideias em códigos funcionais, com uma pitada de criatividade e uma visão de futuro. Aqui, você encontrará meus projetos, habilidades e um pouco da minha jornada no universo da programação.
 
 > "O código é a ponte entre o presente e o futuro. Vamos construir algo épico!" — Geovane
 
@@ -32,9 +36,9 @@ Eu sou **Geovane Silva**, um Cientista de Dados com uma paixão por soluções i
 
 Aqui estão alguns dos meus projetos que brilham no meu repositório:
 
-- **[Sistema de Login PHP](https://github.com/geovane-dev-s-silva/sistema-login-php)**: Um sistema de autenticação seguro e funcional, construído com PHP e MySQL. Perfeito para aplicações web modernas.
-- **[Gerador de QR Code](https://github.com/geovane-dev-s-silva/gerador-qr-code)**: Uma ferramenta prática para gerar QR Codes dinâmicos, com interface amigável e integração web.
-- **[Projeto IA Experimental](https://github.com/geovane-dev-s-silva/projeto-ia)**: Um experimento em andamento para explorar APIs de inteligência artificial e automação. (Em breve mais detalhes!)
+- **[Sistema de Login PHP](https://github.com/geovane-dev-s-silva/sistema-login-php)**: Um sistema de autenticação seguro e funcional, construído com PHP e MySQL.
+- **[Gerador de QR Code](https://github.com/geovane-dev-s-silva/gerador-qr-code)**: Uma ferramenta prática para gerar QR Codes dinâmicos com interface web.
+- **[Projeto IA Experimental](https://github.com/geovane-dev-s-silva/projeto-ia)**: Um experimento em andamento com APIs de IA e automação. (Mais novidades em breve!)
 
 ---
 
@@ -50,11 +54,31 @@ Aqui estão alguns dos meus projetos que brilham no meu repositório:
 
 ## 🧠 O que estou explorando agora?
 
-- 🚀 **Aprofundando em IA**: Estudando frameworks como TensorFlow e APIs de linguagem para integrar IA.
-- 📚 **Estudando Agora**: Criando Agentes Autônomos com IAs Generativas no [I2A2 Academy](https://www.i2a2.academy/).
-- 🌐 **APIs RESTful**: Construindo e consumindo APIs robustas com PHP e JavaScript.
-- ⚡️ **Performance Web**: Otimizando aplicações com técnicas de lazy loading e caching.
-- 📚 **Aprendizado Contínuo**: Sempre buscando novos cursos e desafios no [freeCodeCamp](https://www.freecodecamp.org/) e [Alura](https://www.alura.com.br/).
+- 🚀 **Aprofundando em IA**: Estudando frameworks como TensorFlow e APIs de linguagem para integração com IA generativa.
+- 🤖 **Curso Destaque**: Criando Agentes Autônomos com LLMs e arquiteturas multi-agente no [I2A2 Academy](https://www.i2a2.academy/).
+- 🌐 **APIs RESTful**: Construindo APIs robustas com PHP e JavaScript.
+- ⚙️ **Performance Web**: Otimização com técnicas modernas como lazy loading e caching.
+- 📚 **Aprendizado Contínuo**: Explorando [freeCodeCamp](https://www.freecodecamp.org/) e [Alura](https://www.alura.com.br/).
+
+---
+
+## 🔍 Ferramentas e Frameworks em Foco
+
+- 🧠 **LangChain** & **LlamaIndex** – Frameworks para agentes de IA com RAG
+- 🕸️ **FastAPI** – Backend veloz e moderno para serviços de IA
+- 🐳 **Docker** – Ambientes isolados e portáteis para desenvolvimento
+- 🎛️ **Gradio** – Interfaces interativas para demonstrar modelos de IA
+
+---
+
+## 🤖 Agentes IA em Ação
+
+Atualmente desenvolvo agentes autônomos que são capazes de:
+
+- 🧩 Aprender com contexto usando **RAG (Retrieval-Augmented Generation)**
+- 🌐 Fazer chamadas de API externas e tomar decisões com **LangChain Agents**
+- 🗣️ Compreender e responder usando **Modelos de Linguagem (LLMs)**
+- 🔁 Executar ciclos de feedback contínuo para melhorar tarefas
 
 ---
 
@@ -79,7 +103,7 @@ Aqui estão alguns dos meus projetos que brilham no meu repositório:
 
 ## ⚡ Fun Fact
 
-Sabia que eu já automatizei um script para organizar meu ambiente de desenvolvimento usando Python? Agora, meu setup é ativado com um único comando! 😎
+Sabia que eu já automatizei meu ambiente de desenvolvimento com Python? Um único comando e tudo está pronto para codar! 😎
 
 ---
 
