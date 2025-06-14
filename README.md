@@ -104,6 +104,10 @@ Atualmente desenvolvo agentes autônomos que são capazes de:
 ## ⚡ Fun Fact
 
 Sabia que eu já automatizei meu ambiente de desenvolvimento com Python? Um único comando e tudo está pronto para codar! 😎
+<div align="center">
+  <img src="Barbarian.gif" alt="Barbarian gif" style="max-width:100%; border-radius:12px;" />
+</div>
+
 
 ---
 
