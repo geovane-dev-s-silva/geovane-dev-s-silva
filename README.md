@@ -111,8 +111,4 @@ Sabia que eu já automatizei meu ambiente de desenvolvimento com Python? Um úni
 
 ---
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/geovane-dev-s-silva/count.svg" alt="Visitor Counter" />
-</div>
-
 > *Este README é dinamicamente atualizado com GitHub Actions e inspirado pela estética cyberpunk e IA. Fork it, star it, hack it!*
